@@ -307,3 +307,38 @@ The real price you'll pay is the cost of a adopting a new microservice style arc
 
 (Truly it is cheap enough to experiment with all them and I totally reccomend you do.)
 ```
+---
+```
+
+
+
+
+
+
+
+```
+### Things to maybe think about
+
+- Bots are freaky web servers 😈
+- But you don't have to build the server part anymore (⁉️)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                         thxs!
+```
+---
